@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hola, soy Joaquín 👋
 
-<!--
-**njoaco/njoaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Full-Stack | Estudiante de Ingeniería en Sistemas | Técnico Electrónico
 
-Here are some ideas to get you started:
+📍 **Ubicación:** Buenos Aires, Argentina  
+🎓 **Educación:** 
+- **Ingeniería en Sistemas** (En curso)
+- **Técnico Electrónico**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experiencia
+
+Con 19 años, me especializo en el desarrollo full-stack, combinando habilidades técnicas en programación y diseño para ofrecer soluciones completas y eficientes. Estoy familiarizado con las siguientes tecnologías:
+
+- **Lenguajes de Programación:** Java, JavaScript (incluyendo React), C++, HTML, CSS
+- **Herramientas de Desarrollo:** Vite, Git, Expo, Apache NetBeans
+- **Bases de Datos:** SQL
+- **Diseño:** Adobe Photoshop, DaVinci Resolve
+
+### 🚀 Sobre Mí
+
+Apasionado por el desarrollo de soluciones tecnológicas que no solo cumplan con los objetivos de negocio, sino que también sean eficientes y escalables. Mi formación como Técnico Electrónico, complementada por estudios avanzados en Ingeniería en Sistemas, me proporciona una perspectiva única para la innovación tecnológica, permitiéndome diseñar y optimizar productos complejos.
+
+### 👀 Estoy Buscando
+
+Oportunidades para contribuir y crecer profesionalmente en un ambiente que valore la innovación y la aplicación de tecnologías emergentes.
+
+---
+
+📫 **Cómo contactarme:**  
+[LinkedIn](#) | [Email](#) | [Twitter](#) 
+
+*Agradezco tu interés en mi perfil. ¡Estoy entusiasmado por la posibilidad de trabajar juntos!*
