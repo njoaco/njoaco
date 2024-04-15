@@ -27,6 +27,6 @@ Oportunidades para contribuir y crecer profesionalmente en un ambiente que valor
 ---
 
 📫 **Cómo contactarme:**  
-[LinkedIn](https://www.linkedin.com/in/njoaco/) | **joaquinlucasnieto@gmail.com** | [Portfolio](https://njoaco.online/) 
+[LinkedIn](https://www.linkedin.com/in/njoaco/) | joaquinlucasnieto@gmail.com | [Portfolio](https://njoaco.online/) 
 
 *Agradezco tu interés en mi perfil. ¡Estoy entusiasmado por la posibilidad de trabajar juntos!*
