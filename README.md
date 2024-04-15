@@ -12,7 +12,7 @@
 Con 19 años, me especializo en el desarrollo full-stack, combinando habilidades técnicas en programación y diseño para ofrecer soluciones completas y eficientes. Estoy familiarizado con las siguientes tecnologías:
 
 - **Lenguajes de Programación:** Java, JavaScript (incluyendo React), C++, HTML, CSS
-- **Herramientas de Desarrollo:** Vite, Git, Expo, Apache NetBeans
+- **Herramientas de Desarrollo:** Vite, Git, Expo, Postman, Apache NetBeans
 - **Bases de Datos:** SQL
 - **Diseño:** Adobe Photoshop, DaVinci Resolve, Cinema 4D
 
@@ -27,6 +27,6 @@ Oportunidades para contribuir y crecer profesionalmente en un ambiente que valor
 ---
 
 📫 **Cómo contactarme:**  
-[LinkedIn](#) | [Email](#) | [Twitter](#) 
+[LinkedIn](https://www.linkedin.com/in/njoaco/) | [Email](joaquinlucasnieto@gmail.com) | [Portfolio](https://njoaco.online/) 
 
 *Agradezco tu interés en mi perfil. ¡Estoy entusiasmado por la posibilidad de trabajar juntos!*
