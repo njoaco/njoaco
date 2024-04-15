@@ -14,7 +14,7 @@ Con 19 años, me especializo en el desarrollo full-stack, combinando habilidades
 - **Lenguajes de Programación:** Java, JavaScript (incluyendo React), C++, HTML, CSS
 - **Herramientas de Desarrollo:** Vite, Git, Expo, Apache NetBeans
 - **Bases de Datos:** SQL
-- **Diseño:** Adobe Photoshop, DaVinci Resolve
+- **Diseño:** Adobe Photoshop, DaVinci Resolve, Cinema 4D
 
 ### 🚀 Sobre Mí
 
