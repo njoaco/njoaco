@@ -12,7 +12,7 @@
 Con 19 años, me especializo en el desarrollo full-stack, combinando habilidades técnicas en programación y diseño para ofrecer soluciones completas y eficientes. Estoy familiarizado con las siguientes tecnologías:
 
 - **Lenguajes de Programación:** Java, JavaScript (incluyendo React), C++, HTML, CSS
-- **Herramientas de Desarrollo:** Vite, Git, Expo, Postman, Apache NetBeans
+- **Herramientas de Desarrollo:** Vite, Git, Expo, Spring, Postman
 - **Bases de Datos:** SQL
 - **Diseño:** Adobe Photoshop, DaVinci Resolve, Cinema 4D
 
