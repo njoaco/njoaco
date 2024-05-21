@@ -26,6 +26,8 @@ Oportunidades para contribuir y crecer profesionalmente en un ambiente que valor
 
 ---
 
+<img align=right width="150" src='https://github.com/njoaco/njoaco/assets/162630044/35efe184-46a8-4989-9bf6-7e6e26d7a370'/>
+
 📫 **Cómo contactarme:**  
 [LinkedIn](https://www.linkedin.com/in/njoaco/) | joaquinlucasnieto@gmail.com | [Portfolio](https://njoaco.online/) 
 
